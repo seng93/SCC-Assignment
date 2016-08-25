@@ -109,8 +109,7 @@ public class MainActivity extends AppCompatActivity {
             timePreference.setIs24HourFormat(pref.isChecked());
 
             updatePrefsSummary(timePreference);
-            Toast toast = Toast.makeText( getActivity(),"24HOUR FORMAT BAR IS CLICKED" , Toast.LENGTH_SHORT);
-            toast.show();
+
         }
 
 
