@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="m_light_mode_semi_transparent_black">#9A000000</color>
+    <color name="lollipop_status_bar">#ffcbcbcb</color>
+    <color name="kitkat_status_bar_default">#ffbfbfbf</color>
+    <color name="kitkat_status_bar_gradient">#ffffffff</color>
+    <color name="jellybean_status_bar">#ff33b5e5</color>
+
+    <color name="battery_fill_light_grey">#fecbcbcb</color>
+    <color name="batterymeter_frame_color">#66FFFFFF</color>
+    <color name="batterymeter_charge_color">#cbcbcb</color>
+
+    <color name="black">#000000</color>
+
+    <color name="float_label_normal">#8833B5E5</color>
+    <color name="float_label_activated">@color/theme_accent</color>
+
+    <color name="theme_colour">#424242</color>
+    <color name="theme_accent">#33B5E5</color>
+</resources>
