@@ -19,6 +19,7 @@ android:
     - extra-android-support
 
 before_install:
+ - chmod +x gradlew
   # environment info
   - uname -a
 
