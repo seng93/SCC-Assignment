@@ -398,8 +398,8 @@ public class ColourPreference extends Preference {
         int mColourValue;
         String mColourName;
 
-        public Colour(String colourName, int colourValue) {
-            mColourName = colourName;
+        public Colour(String colour, int colourValue) {
+            mColourName = colour;
             mColourValue = colourValue;
         }
 
