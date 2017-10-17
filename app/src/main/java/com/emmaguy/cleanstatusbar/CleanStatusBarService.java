@@ -18,7 +18,12 @@ import com.emmaguy.cleanstatusbar.config.KitKatStatusBarConfig;
 import com.emmaguy.cleanstatusbar.config.LollipopStatusBarConfig;
 import com.emmaguy.cleanstatusbar.config.MStatusBarConfig;
 import com.emmaguy.cleanstatusbar.config.StatusBarConfig;
+<<<<<<< HEAD
 import com.emmaguy.clean//asdxzxzxs
+=======
+import com.emmaguy.cleanstatusbar.widgets.StatusBarView;
+
+>>>>>>> 50851d1eecba292702ffe9aba2fa094abc5671f8
 public class CleanStatusBarService extends Service {
     private static final int NOTIFICATION_ID = 1;
 
